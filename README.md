@@ -26,7 +26,7 @@
 
 # Second, with the bonus part:
 
-- As you may saw, there are 2 files, one with bonus, this is the previous part, and another file with the bonus part, I downloaded an online video and took a screenshot, then used the screenshot as the query and the video as the input.
+- As you may saw, there are 2 files, one without bonus, this is the previous part, and another file with the bonus part, I downloaded an online video and took a screenshot, then used the screenshot as the query and the video as the input.
 
 - Here is the link for the video [https://www.pexels.com/video/aerial-view-of-red-car-driving-on-forest-road-31525181/]
 
